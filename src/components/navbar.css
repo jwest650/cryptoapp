@@ -1,0 +1,33 @@
+.navbar_container {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: hsl(209, 100%, 8%);
+    width: 22%;
+    height: 100vh;
+    color: white;
+    text-align: left;
+    line-height: 5;
+}
+
+.navbar_container ul {
+    list-style-type: none;
+}
+
+.navbar_container li {
+    color: white;
+    font-size: 1.2rem;
+    vertical-align: middle;
+}
+
+.navbar_container .icons {
+    font-size: 1.5rem;
+}
+.navbar_container span {
+    padding: 0 5px;
+}
+
+.links {
+    text-decoration: none;
+    color: inherit;
+}

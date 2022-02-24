@@ -1,0 +1,28 @@
+.coin-image {
+    width: 35px;
+    height: 35px;
+}
+
+.head {
+    padding: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.coins p {
+    font-size: 1rem;
+    font-weight: 100;
+    text-transform: capitalize;
+}
+
+.search input {
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+    width: 40%;
+    padding: 10px;
+}
+
+.effect:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 5px;
+}

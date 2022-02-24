@@ -1,0 +1,10 @@
+.last span {
+    font-weight: bold;
+}
+
+.first span:first-child {
+    padding-right: 10px;
+}
+h5 {
+    text-transform: capitalize;
+}
